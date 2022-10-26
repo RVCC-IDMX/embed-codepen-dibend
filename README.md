@@ -11,4 +11,4 @@
 
 ### Selected Pen - link to your selected pen
 
-[**INSERT THE PEN TITLE HERE**](https://codepen.io)
+[**My Neoxa Mining Stats**](https://codepen.io/dibend/pen/RwJNjgB)
